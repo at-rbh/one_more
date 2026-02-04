@@ -38,9 +38,13 @@ def add_expense(expense_list, date, category, amount):
     pass  # ✅ Fill this
 
 
+def new():
+    return 1
 # -------------------------
 # 3️⃣ Category-wise Total
 # -------------------------
+
+
 def category_summary(expense_list):
     """
     Category-wise total calculate করবে
