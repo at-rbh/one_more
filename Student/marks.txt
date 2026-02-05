@@ -1,2 +1,0 @@
-Math: 80
-English: 75
